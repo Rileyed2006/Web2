@@ -1,0 +1,22 @@
+body{
+    background-color: #EE4B2B;
+    text-align:center;
+    font-size: 30px;
+    border-style:solid;
+    border-width: 15px;
+}
+.button {
+    background-color:  #4169e1; /* Royal Blue */
+    border: 25px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+
+  }
+  .button:hover{
+    background-color: #0504aa;
+
+}
